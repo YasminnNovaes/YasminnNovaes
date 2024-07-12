@@ -8,6 +8,25 @@
                                                                               - Joshua 1:9
 </pre>
 
+
+<a href="https://medium.com/">
+  <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
+</a>
+
+<a href="https://medium.com/">
+  <img align="right" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/instagram.svg" />
+</a>
+
+<a href="https://medium.com/">
+  <img align="right" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/behance.svg" />
+</a>
+
+<a href="https://medium.com/">
+  <img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+</a>
+</div>
+
+
 <br><br>
 <p align="center">I 💞 solving problems and making people's lives easier using technology.<br><br>I am currently studying Systems Analysis and Development. I have a strong interest in continuous learning and teamwork. During my studies and experience as an apprentice, I developed analytical skills and a focus on continuous improvement, creating practical and efficient solutions for everyday challenges.</p>&nbsp;
 
