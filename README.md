@@ -9,19 +9,19 @@
 </pre>
 
 
-<a href="https://medium.com/">
+<a href="https://www.linkedin.com/in/yasmin-n-73a77821b/">
   <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
 </a>
 
-<a href="https://medium.com/">
+<a href="https://www.instagram.com/ycvn_yasmimnovaes?igsh=ZngwamZpZGlkNTFi">
   <img align="right" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/instagram.svg" />
 </a>
 
-<a href="https://medium.com/">
+<a href="https://www.behance.net/yasminnvalenti">
   <img align="right" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/behance.svg" />
 </a>
 
-<a href="https://medium.com/">
+<a href="mailto:yasmimnovaes.sp@gmail.com?subject=Contato">
   <img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 </div>
