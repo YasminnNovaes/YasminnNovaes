@@ -62,4 +62,5 @@
 &nbsp;
 &nbsp;
 
-![Snake animation](https://github.com/YasminnNovaes/YasminnNovaes/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/YasminnNovaes/YasminnNovaes/blob/output/github-contribution-grid-snake.svg)&nbsp;
