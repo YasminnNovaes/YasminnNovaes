@@ -1,92 +1,93 @@
-<div align="center">
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/YasminnNovaes/YasminnNovaes/blob/main/cloud%20loop.gif"/>
+&nbsp;&nbsp;&nbsp;
 
-# Challenge-Ifood
+<pre>
+                                          "Have I not commanded you? Be strong and courageous. 
+                                          Do not be frightened, and do not be dismayed, for 
+                                          the Lord your God is with you wherever you go.”
+                                                                              - Joshua 1:9
+</pre>
+
+
+<a href="https://www.linkedin.com/in/yasmin-n-73a77821b/">
+  <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/ycvn_yasmimnovaes?igsh=ZngwamZpZGlkNTFi">
+  <img align="right" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/instagram.svg" />
+</a>
+
+<a href="https://www.behance.net/yasminnvalenti">
+  <img align="right" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/behance.svg" />
+</a>
+
+<a href="mailto:yasmimnovaes.sp@gmail.com?subject=Contato">
+  <img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+</a>
 </div>
 
-A proposta do **Challenge-Ifood**, desenvolvida em parceria com a **FIAP** e o **iFood**, é criar uma solução *backoffice* para os parceiros do iFood. Nosso sistema permite que os parceiros possam gerenciar suas finanças com eficiência, oferecendo funcionalidades como:
 
-- **Dashboard** de receitas e entradas.
-- Visualização de **transações**.
-- **Análises financeiras**.
-- Geração de **relatórios**.
-- Visão geral do negócio, incluindo os principais produtos vendidos, fluxo de caixa e despesas.
-
-<div align="center"> [Veja o projeto aqui] </div>
-
-##
+<br><br>
+<p align="center">I 💞 solving problems and making people's lives easier using technology.<br><br>I am currently studying Systems Analysis and Development. I have a strong interest in continuous learning and teamwork. During my studies and experience as an apprentice, I developed analytical skills and a focus on continuous improvement, creating practical and efficient solutions for everyday challenges.</p>&nbsp;
 
 
-<div align="center">
-  
-### 🚀 Tecnologias Utilizadas
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=YasminnNovaes&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminnNovaes&layout=compact&hide_border=true&theme=buefy&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=YasminnNovaes&theme=buefy&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
 
-#### **Frameworks e Bibliotecas**: 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Craft.js](https://img.shields.io/badge/Craft.js-009688?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+&nbsp;
+ &nbsp;
+# My Skills
 
-#### **Linguagens**:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+### Front-End:
+
+#### Básico:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
- </div>
+### Back-End:
 
-##
+#### Básico:
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
-### 🎨 Habilidades Aplicadas
+### Workstation Tools (IDE):
 
-- **Princípios de Design UX/UI**: Foco na experiência do usuário e interfaces intuitivas.
-- **Responsividade**: Desenvolvimento com suporte para dispositivos móveis e desktops.
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 
-##
+### Version Control and Development:
 
-### ⚙️ Desafios e Soluções
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-#### Obstáculos
-Por estarmos em uma fase inicial de desenvolvimento, ainda não foi possível implementar uma interface com muitos componentes interativos. No entanto, ao explorar novas bibliotecas, conseguimos adicionar gráficos interativos em JavaScript, o que melhorou a visualização dos dados.
 
-#### Falhas
-Tivemos dificuldades ao implementar um menu responsivo para dispositivos móveis, que não funcionava corretamente ao ser acionado. Optamos, então, por uma solução mais simples, reduzindo o menu.
 
-#### Pontos Fortes
-Implementação bem-sucedida de gráficos interativos com JavaScript.
-Aplicação eficaz de herança no CSS, com um arquivo global para compartilhar estilos entre as telas.
-Manutenção da responsividade, adaptando o layout a diferentes dispositivos e tamanhos de tela.
+### Graphic Design and UI/UX Design:
 
-##
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 
-### 👥 Contribuidores
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/YasminnNovaes">
-        <img src="https://avatars.githubusercontent.com/u/165516630?v=4" width="100px;" alt="Yasmin"/>
-        <br />
-        <sub><b>Yasmin</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Adhayne2501">
-        <img src="https://avatars.githubusercontent.com/u/125472212?v=4" width="100px;" alt="Adhayne Daphine"/>
-        <br />
-        <sub><b>Adhayne</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/FelipeDanieldaSilva">
-        <img src="https://avatars.githubusercontent.com/u/173853481?v=4" width="100px;" alt="Felipe Daniel"/>
-        <br />
-        <sub><b>Felipe Daniel</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/contribuidor4">
-        <img src="https://github.com/contribuidor4.png" width="100px;" alt="Contribuidor 4"/>
-        <br />
-        <sub><b>Contribuidor 4</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
+
+### Operating Systems:
+
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)&nbsp;
+
+
+&nbsp;
+&nbsp;
+
+
+![Snake animation](https://github.com/YasminnNovaes/YasminnNovaes/blob/output/github-contribution-grid-snake.svg)&nbsp;
