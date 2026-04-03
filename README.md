@@ -1,93 +1,76 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/YasminnNovaes/YasminnNovaes/blob/main/cloud%20loop.gif"/>
-&nbsp;&nbsp;&nbsp;
-
-<pre>
-                                          "Have I not commanded you? Be strong and courageous. 
-                                          Do not be frightened, and do not be dismayed, for 
-                                          the Lord your God is with you wherever you go.”
-                                                                              - Joshua 1:9
-</pre>
-
-
-<a href="https://www.linkedin.com/in/yasmin-n-73a77821b/">
-  <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
-</a>
-
-<a href="https://www.instagram.com/ycvn_yasmimnovaes?igsh=ZngwamZpZGlkNTFi">
-  <img align="right" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/instagram.svg" />
-</a>
-
-<a href="https://www.behance.net/yasminnvalenti">
-  <img align="right" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/behance.svg" />
-</a>
-
-<a href="mailto:yasmimnovaes.sp@gmail.com?subject=Contato">
-  <img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-</a>
+<div align="center">
+  <img align="center" style="margin-bottom:20px; object-fit: contain" width=100% src="https://github.com/YasminnNovaes/YasminnNovaes/blob/main/cloud%20loop.gif?raw=true"/>
 </div>
 
+<div align="right">
+  <a href="https://www.linkedin.com/in/yasmin-n-73a77821b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://roadmap.sh/u/seu-usuario">
+    <img src="https://img.shields.io/badge/Roadmap.sh-101010?style=for-the-badge&logo=roadmapdotsh&logoColor=white" alt="My Roadmaps" />
+  </a>
+</div>
 
-<br><br>
-<p align="center">I 💞 solving problems and making people's lives easier using technology.<br><br>I am currently studying Systems Analysis and Development. I have a strong interest in continuous learning and teamwork. During my studies and experience as an apprentice, I developed analytical skills and a focus on continuous improvement, creating practical and efficient solutions for everyday challenges.</p>&nbsp;
+<br>
 
+<pre align="center">
+"Have I not commanded you? Be strong and courageous. 
+Do not be frightened, and do not be dismayed, for 
+the Lord your God is with you wherever you go.”
+- Joshua 1:9
+</pre>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=YasminnNovaes&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminnNovaes&layout=compact&hide_border=true&theme=buefy&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=YasminnNovaes&theme=buefy&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
+  <a href="mailto:yasmimnovaes.sp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/yasminnvalenti">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ycvn_yasmimnovaes">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-&nbsp;
- &nbsp;
-# My Skills
+<br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<p align="center">
+  I 💞 solving problems and making people's lives easier using technology.<br>
+  <b>QA & Software Engineering Student @ FIAP</b><br><br>
+  Focada em garantir a qualidade de software através de automação e processos eficientes.<br>
+  Atualmente desenvolvendo soluções práticas para desafios reais.
+</p>
 
-### Front-End:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasminnNovaes&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D0B1A&title_color=B7A5E9&icon_color=CEF2E8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminnNovaes&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D0B1A&title_color=B7A5E9&langs_count=6&hide=jupyter%20notebook,tex,php">
+</div>
 
-#### Básico:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+<br>
 
-### Back-End:
+---
 
-#### Básico:
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+### 🛠️ My Tech Stack
 
-### Workstation Tools (IDE):
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador Ilustração">
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+#### **QA & Testing**
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-### Version Control and Development:
+#### **Development**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+#### **Design & Tools**
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![VScode](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<br><br>
 
-
-### Graphic Design and UI/UX Design:
-
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
-
-
-
-
-### Operating Systems:
-
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)&nbsp;
-
-
-&nbsp;
-&nbsp;
-
-
-![Snake animation](https://github.com/YasminnNovaes/YasminnNovaes/blob/output/github-contribution-grid-snake.svg)&nbsp;
+<div align="center">
+  <img src="https://github.com/YasminnNovaes/YasminnNovaes/blob/output/github-contribution-grid-snake.svg" />
+</div>
